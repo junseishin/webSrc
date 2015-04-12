@@ -1,2 +1,12 @@
+name: "Really Lame"
+description: "This is really lame..."
+
+url: "http://reallyla.me"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+
 highlighter: rouge
 encoding: utf-8
