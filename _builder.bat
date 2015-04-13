@@ -1,1 +1,1 @@
-start cmd /k jekyll build -d ../junseishin.github.io -w
+start cmd /k jekyll serve -d ../junseishin.github.io -w
